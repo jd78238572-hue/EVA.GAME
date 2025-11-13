@@ -1,2 +1,5 @@
-Título: Versão 0.3
-Descrição: Novo modo de corrida e IA mais desafiadora!
+Título: Versão 0.2
+Descrição:  sistema de tiro e colecta de armas!
+física de carros melhorada 
+IA de carros e pedestres 
+novos veículos serão adicionados
