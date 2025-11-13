@@ -1,0 +1,2 @@
+Título: Versão 0.3
+Descrição: Novo modo de corrida e IA mais desafiadora!
