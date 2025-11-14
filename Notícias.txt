@@ -2,7 +2,3 @@ Título: Atualização 0.2
 Descrição: Novo modo de corrida e IA mais desafiadora!
 Link: https://meusite.com/atualizacao.apk
 Data: 18/11/2025
-
-Título: Correção de bugs
-Descrição: Pequenos ajustes de estabilidade e desempenho.
-Data: 22/11/2025
