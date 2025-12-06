@@ -1,4 +1,6 @@
 Título: Atualização 0.22
-Descrição:Correção de bugs e expansão da área do jogo como disponibilidade de mapa, mini mapa  e marcador de pontos e distância no jogo
+Descrição: Mundo remasterizado com alterações nos gráficos, modo dia e noite chegando, adição de veículos, chegada de jetpacks no jogo, sistema de combate com armas, missões épicas chegando, modo de rasha com NPCs apostado e possíveis tunagens nos carros.
+
+Até lá fica ligado para não perder as próximas atualizações, e se devirta
 Link:
-Data: 7/12/2025
+Data: 27/12/2025
