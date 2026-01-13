@@ -1,6 +1,6 @@
-Título: Atualização 0.22
-Descrição: Mundo remasterizado com alterações nos gráficos, modo dia e noite chegando, adição de veículos, chegada de jetpacks no jogo, sistema de combate com armas, missões épicas chegando, modo de rasha com NPCs apostado e possíveis tunagens nos carros.
+Título: Atualização 0.23
+Descrição: Novas construções, novos veículos, novos sistemas( dia e noite , loja de roupa, tunagem de carros[ainda limitada a certos carros]), rebuilds de certas áreas
 
 Até lá fica ligado para não perder as próximas atualizações, e se devirta
 Link: https://youtube.com/@hardmusic-r3i?si=7kDglGKzRooKIf2x
-Data: 27/12/2025
+Data: 30/01/2026
